@@ -1,0 +1,14 @@
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio1-Parcial1 Mejorado\bin\Debug\net8.0\Ejercicio1-Parcial1 Mejorado.exe
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio1-Parcial1 Mejorado\bin\Debug\net8.0\Ejercicio1-Parcial1 Mejorado.deps.json
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio1-Parcial1 Mejorado\bin\Debug\net8.0\Ejercicio1-Parcial1 Mejorado.runtimeconfig.json
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio1-Parcial1 Mejorado\bin\Debug\net8.0\Ejercicio1-Parcial1 Mejorado.dll
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio1-Parcial1 Mejorado\bin\Debug\net8.0\Ejercicio1-Parcial1 Mejorado.pdb
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio1-Parcial1 Mejorado\obj\Debug\net8.0\Ejercicio1-Parcial1 Mejorado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio1-Parcial1 Mejorado\obj\Debug\net8.0\Ejercicio1-Parcial1 Mejorado.AssemblyInfoInputs.cache
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio1-Parcial1 Mejorado\obj\Debug\net8.0\Ejercicio1-Parcial1 Mejorado.AssemblyInfo.cs
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio1-Parcial1 Mejorado\obj\Debug\net8.0\Ejercicio1-Parcial1 Mejorado.csproj.CoreCompileInputs.cache
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio1-Parcial1 Mejorado\obj\Debug\net8.0\Ejercicio1-Parcial1 Mejorado.dll
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio1-Parcial1 Mejorado\obj\Debug\net8.0\refint\Ejercicio1-Parcial1 Mejorado.dll
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio1-Parcial1 Mejorado\obj\Debug\net8.0\Ejercicio1-Parcial1 Mejorado.pdb
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio1-Parcial1 Mejorado\obj\Debug\net8.0\Ejercicio1-Parcial1 Mejorado.genruntimeconfig.cache
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio1-Parcial1 Mejorado\obj\Debug\net8.0\ref\Ejercicio1-Parcial1 Mejorado.dll

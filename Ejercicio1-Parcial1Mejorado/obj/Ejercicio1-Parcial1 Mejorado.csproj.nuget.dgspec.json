@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Alas\\Desktop\\Pao\\p3\\PAL - 3\\Ejercicio1-Parcial1 Mejorado\\Ejercicio1-Parcial1 Mejorado.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Alas\\Desktop\\Pao\\p3\\PAL - 3\\Ejercicio1-Parcial1 Mejorado\\Ejercicio1-Parcial1 Mejorado.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alas\\Desktop\\Pao\\p3\\PAL - 3\\Ejercicio1-Parcial1 Mejorado\\Ejercicio1-Parcial1 Mejorado.csproj",
+        "projectName": "Ejercicio1-Parcial1 Mejorado",
+        "projectPath": "C:\\Users\\Alas\\Desktop\\Pao\\p3\\PAL - 3\\Ejercicio1-Parcial1 Mejorado\\Ejercicio1-Parcial1 Mejorado.csproj",
+        "packagesPath": "C:\\Users\\Alas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alas\\Desktop\\Pao\\p3\\PAL - 3\\Ejercicio1-Parcial1 Mejorado\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
