@@ -1,0 +1,15 @@
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio6-Parcial3\obj\Debug\net8.0\Ejercicio6-Parcial3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio6-Parcial3\obj\Debug\net8.0\Ejercicio6-Parcial3.AssemblyInfoInputs.cache
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio6-Parcial3\obj\Debug\net8.0\Ejercicio6-Parcial3.AssemblyInfo.cs
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio6-Parcial3\obj\Debug\net8.0\Ejercicio6-Parcial3.csproj.CoreCompileInputs.cache
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio6-Parcial3\obj\Debug\net8.0\Ejercicio6-Parcial3.sourcelink.json
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio6-Parcial3\bin\Debug\net8.0\Ejercicio6-Parcial3.exe
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio6-Parcial3\bin\Debug\net8.0\Ejercicio6-Parcial3.deps.json
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio6-Parcial3\bin\Debug\net8.0\Ejercicio6-Parcial3.runtimeconfig.json
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio6-Parcial3\bin\Debug\net8.0\Ejercicio6-Parcial3.dll
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio6-Parcial3\bin\Debug\net8.0\Ejercicio6-Parcial3.pdb
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio6-Parcial3\obj\Debug\net8.0\Ejercicio6-Parcial3.dll
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio6-Parcial3\obj\Debug\net8.0\refint\Ejercicio6-Parcial3.dll
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio6-Parcial3\obj\Debug\net8.0\Ejercicio6-Parcial3.pdb
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio6-Parcial3\obj\Debug\net8.0\Ejercicio6-Parcial3.genruntimeconfig.cache
+C:\Users\Alas\Desktop\Pao\p3\PAL - 3\Ejercicio6-Parcial3\obj\Debug\net8.0\ref\Ejercicio6-Parcial3.dll
